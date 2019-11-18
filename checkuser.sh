@@ -4,6 +4,5 @@ then
  echo "You must be a root user" 2>&1
  exit 1
 else
-
   echo "User already rooted"
 fi
