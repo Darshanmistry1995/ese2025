@@ -1,6 +1,8 @@
 //Quick sorting...
+
 #include <iostream>
 #include <string>
+
 using namespace std;
 
 void qs(int[],int,int);
