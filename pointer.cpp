@@ -1,6 +1,8 @@
 //Pointer Arithmetic....
 #include <bits/stdc++.h> 
+
 using namespace std; 
+
 void POINT()  
 { 
     //Declare an array 
