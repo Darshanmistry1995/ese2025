@@ -1,7 +1,9 @@
 //Quick sorting...
+
 #include <iostream>
 #include <string>
 using namespace std;
+
 void qs(int[],int,int);
 int ps(int[],int,int);
 
