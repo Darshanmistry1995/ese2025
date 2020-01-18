@@ -31,7 +31,7 @@ int ps(int a[],int l,int u){
     i=l;
     j=u+1;
     do{
-        do
+       do
         i++;
         while (a[i]<v && i<=u);
         do
