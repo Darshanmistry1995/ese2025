@@ -6,5 +6,6 @@ if [[ -f $filename ]] ; then
     read -p "Enter the word you want to find: " word
     grep "$word" "$filename"
 else
+
     echo "The file $filename does not exist."
 fi
