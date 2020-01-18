@@ -22,7 +22,7 @@ void POINT()
             ptr++; 
     } 
 } 
-  
+
 //Driver program 
 int main() 
 { 
