@@ -14,7 +14,9 @@ void prntAry(int a[], int size)
         cout << a[i] << " ";
     cout << endl;
 }
+
 int main()
+    
 {
      int a[] = {10, 21, 15, 11, 1, 4};
     int n = sizeof(a) / sizeof(a[0]);
