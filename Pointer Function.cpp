@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
 int fAdd (int *a,int *b)
 {
     int sum=0;
