@@ -7,6 +7,7 @@ void qs(int[],int,int);
 int ps(int[],int,int);
 
 void prntAry(int a[], int size)
+    
 {
     int i;
     for (i = 0; i < size; i++)
