@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int fdd (int *a,int *b)
+int fAdd (int *a,int *b)
 {
     int sum=0;
     int x,y;
