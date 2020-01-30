@@ -4,6 +4,7 @@
 #include <bits/stdc++.h> 
 using namespace std; 
 void POINT()  
+    
 { 
     //Declare an array 
     int v[3] = {10, 50, 75}; 
