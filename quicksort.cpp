@@ -20,7 +20,7 @@ int main()
      int a[] = {10, 21, 15, 11, 1, 4};
     int n = sizeof(a) / sizeof(a[0]);
     qs(a, 0, n - 1);
-    cout << "Sorted array: \n";
+    cout << "Sorted array..: \n";
     prntAry(a, n);
     return 0;
 }
