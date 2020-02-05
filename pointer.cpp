@@ -6,7 +6,7 @@ using namespace std;
 void POINT()  
     
 { 
-    //Declare an array 
+    //Declare an array ....
     int v[3] = {10, 50, 75}; 
       
     //declare pointer variable  
@@ -17,7 +17,7 @@ void POINT()
       
     for (int i = 0; i < 3; i++) 
     { 
-            cout << "Address at ptr = " << ptr << "\n"; 
+            cout << "Address at pt = " << ptr << "\n"; 
             cout << "Value at *ptr = " << *ptr << "\n"; 
               
             // Increment pointer ptr by 1  
