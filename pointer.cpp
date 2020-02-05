@@ -6,7 +6,7 @@ using namespace std;
 void POINT()  
     
 { 
-    //Declare an array ....
+    //Declare an array 
     int v[3] = {10, 50, 75}; 
       
     //declare pointer variable  
