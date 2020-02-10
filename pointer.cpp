@@ -9,7 +9,7 @@ void POINT()
     //Declare an array 
     int v[3] = {10, 50, 75}; 
       
-    //declare pointer variable  
+    //declare pointer variable...
     int *ptr; 
       
     //Assign the address of v[0] to ptr 
