@@ -9,5 +9,7 @@ if [[ $EUID -ne 0 ]];
   exit 1
   
 else
+
   echo "User already rooted."
+  
 fi
