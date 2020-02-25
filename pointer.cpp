@@ -15,6 +15,7 @@ void POINT()
     ptr = v; 
       
     for (int i = 0; i < 3; i++) 
+        
     { 
             cout << "Address at pt = " << ptr << "\n"; 
             cout << "Value at *ptr = " << *ptr << "\n"; 
