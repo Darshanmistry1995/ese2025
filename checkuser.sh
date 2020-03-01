@@ -2,7 +2,7 @@
 
 if [[ $EUID -ne 0 ]];
 
- then
+ then 
  
  echo "You must be a root user" 2>&1
  
