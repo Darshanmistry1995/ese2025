@@ -9,7 +9,7 @@ using namespace std;
 void qs(int[],int,int);
 int ps(int[],int,int);
 
-void prntAry(int a[], int size)
+void prntAry(int a[],int size)
 {
   
 
