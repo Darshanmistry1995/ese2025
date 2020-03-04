@@ -17,8 +17,8 @@ void POINT()
     for (int i = 0; i < 3; i++) 
         
     { 
-            cout << "Address at pt = " << ptr << "\n"; 
-            cout << "Value at *ptr = " << *ptr << "\n"; 
+            cout << "Address at a pt = " << ptr << "\n"; 
+            cout << "Value at a *ptr = " << *ptr << "\n"; 
               
             // Increment pointer ptr by 1  
             ptr++; 
