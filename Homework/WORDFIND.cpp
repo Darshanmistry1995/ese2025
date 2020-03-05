@@ -8,7 +8,8 @@
 
 using namespace std;
 
-struct word_rec_t {
+struct word_rec_t 
+   {
 	long int letter_count =0;
 	bool dar_found=0 ;
         bool raj_found=0;
