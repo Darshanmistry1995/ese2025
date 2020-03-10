@@ -10,6 +10,6 @@
   
 else
 
-echo "User already rooted."
+ echo "User already rooted."
   
 fi
