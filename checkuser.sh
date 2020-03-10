@@ -8,7 +8,7 @@
  
  exit 1
   
-else
+ else
 
  echo "User already rooted."
   
