@@ -12,4 +12,4 @@
 
  echo "User already rooted."
   
-fi
+ fi
