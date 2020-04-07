@@ -2,6 +2,7 @@
 using namespace std;
 
 int main()
+ 
 {
  
 int A=15,B=20,Total;
