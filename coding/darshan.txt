@@ -1,2 +1,2 @@
 Hello world 
-start using C++ programming to learn basic stuff..............
+start using C++ programming to learn basic stuff.
