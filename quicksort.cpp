@@ -12,7 +12,7 @@ void prntAry(int a[],int size)
 {
   
 
-    int i;
+   int i;
     for (i = 0; i < size; i++)
         cout << a[i] << " ";
     cout << endl;
